@@ -1,0 +1,127 @@
+{
+    "projects":[
+    { "techStack":["html","css","javaScript","vue","bootstrap","MySQL"],
+"name":" ",
+"desc":" ",
+"liveLink":" ",
+"githubLink":" ",
+"preview":""
+},
+    { "techStack":["html","css","javaScript","vue","bootstrap","MySQL"],
+"name":" ",
+"desc":" ",
+"liveLink":" ",
+"githubLink":" ",
+"preview":""
+},
+    { "techStack":["html","css","javaScript","vue","bootstrap","MySQL"],
+"name":" ",
+"desc":" ",
+"liveLink":" ",
+"githubLink":" ",
+"preview":""
+},
+    { "techStack":["html","css","javaScript","vue","bootstrap","MySQL"],
+"name":" ",
+"desc":" ",
+"liveLink":" ",
+"githubLink":" ",
+"preview":""
+},
+    { "techStack":["html","css","javaScript","vue","bootstrap","MySQL"],
+"name":" ",
+"desc":" ",
+"liveLink":" ",
+"githubLink":" ",
+"preview":""
+},
+    { "techStack":["html","css","javaScript","vue","bootstrap","MySQL"],
+"name":" ",
+"desc":" ",
+"liveLink":" ",
+"githubLink":" ",
+"preview":""
+}
+ ],
+    "resume":[
+    {
+        "name":"Personal Development",
+        "jobTitle":"upskilling",
+        "desc":"in pursuit of myself",
+        "skills":"",
+        "period":"",
+        "comLink":"",
+        "contact":""
+    },
+    {
+        "name":"",
+        "jobTitle":"",
+        "desc":"",
+        "skills":"",
+        "period":"",
+        "comLink":"",
+        "contact":""
+    }
+    ],
+    "skills":[
+    {"name":"HTML",
+    "logo":"",
+    "level":"100"
+    },
+    {"name":"CSS",
+    "logo":"",
+    "level":"80"
+    },
+    {"name":"JavaScript",
+    "logo":"",
+    "level":"74"
+    },
+    {"name":"MySQL",
+    "logo":"",
+    "level":"94"
+    },
+    {"name":"VUE3",
+    "logo":"",
+    "level":"50"
+    }
+    ],
+    "testimonials":[
+    {
+        "name":"",
+        "relate":"",
+        "testimonial":"",
+        "image":""
+    },
+    {
+        "name":"",
+        "relate":"",
+        "testimonial":"",
+        "image":""
+    },
+    {
+        "name":"",
+        "relate":"",
+        "testimonial":"",
+        "image":""
+    },
+    {
+        "name":"",
+        "relate":"",
+        "testimonial":"",
+        "image":""
+    },
+    {
+        "name":"",
+        "relate":"",
+        "testimonial":"",
+        "image":""
+    },
+    {
+        "name":"",
+        "relate":"",
+        "testimonial":"",
+        "image":""
+    }
+    ]
+
+}
