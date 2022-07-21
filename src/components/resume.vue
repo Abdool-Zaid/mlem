@@ -7,10 +7,11 @@
         <h1>{{job.name}}</h1>
         <h4>{{job.jobTitle}}</h4>
         <p>{{job.desc}}</p>
-        <ul>
-            <li>{{job.development[0].skill}}</li>
-            <!-- <li>{{job.development[1].skill}}</li> -->
-        </ul>
+        <div v-for="dev in development" :key="dev">
+            <ul>
+                <li>{{dev.skill}}</li>
+                </ul>
+                </div>
         <p>duration: {{job.duration}}</p>
         <a :href="job.link" target="blank"></a>
         </div>
@@ -21,7 +22,8 @@ export default {
     name:'resume',
     data() {
         return {
-        resume: this.$store.state.resume
+        resume: this.$store.state.resume,
+        development: this.$store.state.resume.development
         }
     },
 }
